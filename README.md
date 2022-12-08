@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif)]
+[![MasterHead](https://www.shutterstock.com/image-vector/dark-wide-abstract-banner-grey-260nw-1804227037.jpg)]
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">I am Fresher</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
